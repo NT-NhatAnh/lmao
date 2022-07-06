@@ -49,3 +49,8 @@ Player.fight(p1, p2)
 player.fi
 
 #lmadlasmdlasmda
+class Neww class ClassName
+  def initialize
+
+  endadskasdkaskakksdadas
+end
