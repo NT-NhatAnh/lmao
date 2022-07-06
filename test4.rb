@@ -48,4 +48,4 @@ p2 = Player.new("Nam", "Male", 60, 10)
 Player.fight(p1, p2)
 player.fi
 
-#this is comment for me to check
+#lmadlasmdlasmda
