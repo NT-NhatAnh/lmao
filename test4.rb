@@ -47,3 +47,5 @@ p1 = Player.new("Cuong", "Male", 50, 13)
 p2 = Player.new("Nam", "Male", 60, 10)
 Player.fight(p1, p2)
 player.fi
+
+#this is comment for me to check
