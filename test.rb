@@ -182,8 +182,3 @@
 
 #qqqqqqqqqqqqq
 #qqqqrrrrrrr
-
-#im writing gibbersish
-#dkajskldjsalkd
-#asdsadasdasdasd
-#asdasdasdasdas
